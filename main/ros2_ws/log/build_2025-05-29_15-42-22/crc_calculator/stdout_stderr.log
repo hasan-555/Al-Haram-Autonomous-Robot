@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing crc_calculator.egg-info/PKG-INFO
+writing dependency_links to crc_calculator.egg-info/dependency_links.txt
+writing entry points to crc_calculator.egg-info/entry_points.txt
+writing requirements to crc_calculator.egg-info/requires.txt
+writing top-level names to crc_calculator.egg-info/top_level.txt
+reading manifest file 'crc_calculator.egg-info/SOURCES.txt'
+writing manifest file 'crc_calculator.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/h/ros2_ws/install/crc_calculator/lib/python3.10/site-packages/crc-calculator.egg-link (link to .)
+Installing crc_calculator script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+Installing decimal_to_hex_node script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+Installing diff_drive_to_rpm script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+Installing request_data script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+Installing send_modbus_series script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+
+Installed /home/h/ros2_ws/build/crc_calculator
+running symlink_data

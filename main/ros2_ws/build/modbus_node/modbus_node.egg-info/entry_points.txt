@@ -1,0 +1,10 @@
+[console_scripts]
+read_distance = modbus_node.read_distance:main
+read_distance_pub_odom = modbus_node.read_distance_pub_odom:main
+read_speed_values = modbus_node.read_speed_values:main
+reset_distance = modbus_node.reset_distance:main
+send_raw_modbus_series = modbus_node.send_raw_modbus_series:main
+write_speed_max = modbus_node.write_speed_max:main
+write_speed_syn_differential_manual = modbus_node.write_speed_syn_differential_manual:main
+write_speed_sync_sub_cmdvel = modbus_node.write_speed_sync_sub_cmdvel:main
+

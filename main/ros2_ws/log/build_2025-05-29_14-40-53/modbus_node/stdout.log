@@ -1,0 +1,29 @@
+running develop
+running egg_info
+creating modbus_node.egg-info
+writing modbus_node.egg-info/PKG-INFO
+writing dependency_links to modbus_node.egg-info/dependency_links.txt
+writing entry points to modbus_node.egg-info/entry_points.txt
+writing requirements to modbus_node.egg-info/requires.txt
+writing top-level names to modbus_node.egg-info/top_level.txt
+writing manifest file 'modbus_node.egg-info/SOURCES.txt'
+reading manifest file 'modbus_node.egg-info/SOURCES.txt'
+writing manifest file 'modbus_node.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/h/ros2_ws/install/modbus_node/lib/python3.10/site-packages/modbus-node.egg-link (link to .)
+Installing read_distance script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing read_distance_pub_odom script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing read_speed_values script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing reset_distance script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing send_raw_modbus_series script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing write_speed_max script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing write_speed_syn_differential_manual script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+Installing write_speed_sync_sub_cmdvel script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+
+Installed /home/h/ros2_ws/build/modbus_node
+running symlink_data
+creating /home/h/ros2_ws/install/modbus_node/share/ament_index
+creating /home/h/ros2_ws/install/modbus_node/share/ament_index/resource_index
+creating /home/h/ros2_ws/install/modbus_node/share/ament_index/resource_index/packages
+symbolically linking /home/h/ros2_ws/build/modbus_node/resource/modbus_node -> /home/h/ros2_ws/install/modbus_node/share/ament_index/resource_index/packages
+symbolically linking /home/h/ros2_ws/build/modbus_node/package.xml -> /home/h/ros2_ws/install/modbus_node/share/modbus_node

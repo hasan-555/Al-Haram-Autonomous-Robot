@@ -1,0 +1,24 @@
+[1.686s] Invoking command in '/home/h/ros2_ws/build/modbus_node': PYTHONPATH=/home/h/ros2_ws/build/modbus_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/h/ros2_ws/install/modbus_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/h/ros2_ws/build/modbus_node/build --no-deps symlink_data
+[2.246s] running develop
+[2.586s] running egg_info
+[2.586s] writing modbus_node.egg-info/PKG-INFO
+[2.586s] writing dependency_links to modbus_node.egg-info/dependency_links.txt
+[2.586s] writing entry points to modbus_node.egg-info/entry_points.txt
+[2.587s] writing requirements to modbus_node.egg-info/requires.txt
+[2.587s] writing top-level names to modbus_node.egg-info/top_level.txt
+[2.588s] reading manifest file 'modbus_node.egg-info/SOURCES.txt'
+[2.589s] writing manifest file 'modbus_node.egg-info/SOURCES.txt'
+[2.593s] running build_ext
+[2.593s] Creating /home/h/ros2_ws/install/modbus_node/lib/python3.10/site-packages/modbus-node.egg-link (link to .)
+[2.594s] Installing read_distance script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.594s] Installing read_distance_pub_odom script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.594s] Installing read_speed_values script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.594s] Installing reset_distance script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.594s] Installing send_raw_modbus_series script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.595s] Installing write_speed_max script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.595s] Installing write_speed_syn_differential_manual script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.595s] Installing write_speed_sync_sub_cmdvel script to /home/h/ros2_ws/install/modbus_node/lib/modbus_node
+[2.595s] 
+[2.595s] Installed /home/h/ros2_ws/build/modbus_node
+[2.595s] running symlink_data
+[2.617s] Invoked command in '/home/h/ros2_ws/build/modbus_node' returned '0': PYTHONPATH=/home/h/ros2_ws/build/modbus_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/h/ros2_ws/install/modbus_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/h/ros2_ws/build/modbus_node/build --no-deps symlink_data

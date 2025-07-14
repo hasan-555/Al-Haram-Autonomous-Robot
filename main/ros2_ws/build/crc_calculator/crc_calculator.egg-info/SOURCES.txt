@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+crc_calculator/__init__.py
+crc_calculator/crc_calculator.py
+crc_calculator/decimal_to_hex_node.py
+crc_calculator/diff_drive_to_rpm.py
+crc_calculator/request_data.py
+crc_calculator/send_modbus_series.py
+crc_calculator.egg-info/PKG-INFO
+crc_calculator.egg-info/SOURCES.txt
+crc_calculator.egg-info/dependency_links.txt
+crc_calculator.egg-info/entry_points.txt
+crc_calculator.egg-info/requires.txt
+crc_calculator.egg-info/top_level.txt
+crc_calculator.egg-info/zip-safe
+resource/crc_calculator

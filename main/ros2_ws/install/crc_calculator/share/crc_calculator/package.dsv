@@ -1,0 +1,9 @@
+source;share/crc_calculator/hook/pythonpath.ps1
+source;share/crc_calculator/hook/pythonpath.dsv
+source;share/crc_calculator/hook/pythonpath.sh
+source;share/crc_calculator/hook/ament_prefix_path.ps1
+source;share/crc_calculator/hook/ament_prefix_path.dsv
+source;share/crc_calculator/hook/ament_prefix_path.sh
+source;../../build/crc_calculator/share/crc_calculator/hook/pythonpath_develop.ps1
+source;../../build/crc_calculator/share/crc_calculator/hook/pythonpath_develop.dsv
+source;../../build/crc_calculator/share/crc_calculator/hook/pythonpath_develop.sh

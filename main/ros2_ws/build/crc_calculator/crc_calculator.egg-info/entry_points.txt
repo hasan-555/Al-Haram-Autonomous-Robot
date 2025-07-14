@@ -1,0 +1,7 @@
+[console_scripts]
+crc_calculator = crc_calculator.crc_calculator:main
+decimal_to_hex_node = crc_calculator.decimal_to_hex_node:main
+diff_drive_to_rpm = crc_calculator.diff_drive_to_rpm:main
+request_data = crc_calculator.request_data:main
+send_modbus_series = crc_calculator.send_modbus_series:main
+

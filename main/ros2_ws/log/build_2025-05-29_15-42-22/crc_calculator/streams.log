@@ -1,0 +1,21 @@
+[1.669s] Invoking command in '/home/h/ros2_ws/build/crc_calculator': PYTHONPATH=/home/h/ros2_ws/build/crc_calculator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/h/ros2_ws/install/crc_calculator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/h/ros2_ws/build/crc_calculator/build --no-deps symlink_data
+[2.164s] running develop
+[2.467s] running egg_info
+[2.467s] writing crc_calculator.egg-info/PKG-INFO
+[2.467s] writing dependency_links to crc_calculator.egg-info/dependency_links.txt
+[2.468s] writing entry points to crc_calculator.egg-info/entry_points.txt
+[2.468s] writing requirements to crc_calculator.egg-info/requires.txt
+[2.468s] writing top-level names to crc_calculator.egg-info/top_level.txt
+[2.470s] reading manifest file 'crc_calculator.egg-info/SOURCES.txt'
+[2.470s] writing manifest file 'crc_calculator.egg-info/SOURCES.txt'
+[2.475s] running build_ext
+[2.475s] Creating /home/h/ros2_ws/install/crc_calculator/lib/python3.10/site-packages/crc-calculator.egg-link (link to .)
+[2.476s] Installing crc_calculator script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+[2.476s] Installing decimal_to_hex_node script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+[2.476s] Installing diff_drive_to_rpm script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+[2.476s] Installing request_data script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+[2.476s] Installing send_modbus_series script to /home/h/ros2_ws/install/crc_calculator/lib/crc_calculator
+[2.476s] 
+[2.476s] Installed /home/h/ros2_ws/build/crc_calculator
+[2.476s] running symlink_data
+[2.501s] Invoked command in '/home/h/ros2_ws/build/crc_calculator' returned '0': PYTHONPATH=/home/h/ros2_ws/build/crc_calculator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/h/ros2_ws/install/crc_calculator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/h/ros2_ws/build/crc_calculator/build --no-deps symlink_data
