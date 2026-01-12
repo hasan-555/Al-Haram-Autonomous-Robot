@@ -2,6 +2,8 @@
 
 This repository contains the code for an autonomous robot developed for Masjid Al Haram, Saudi Arabia, to assist visitors and tourists. The project includes control systems, sensor fusion, and ROS2 Humble interfaces for motor and sensor integration, developed as part of a work project at SWB Syria Company, Aleppo, Syria, from April 2025 to June 2025.
 
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/26d4929a-8d20-4e1f-8c9f-17d342fc880a" />
+
 ## Project Overview
 
 The goal of this project was to design an autonomous robot with natural language processing (NLP) capabilities to assist visitors at Masjid Al Haram. Key features include:
